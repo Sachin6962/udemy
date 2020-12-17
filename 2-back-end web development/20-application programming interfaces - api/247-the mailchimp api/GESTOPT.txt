@@ -1,0 +1,6 @@
+gestopt met dit project op 17dec2020.
+
+wilde doorgaan met react leren en had echt geen
+zin meer in dat gedoe met mailchimp. ga
+waarschijnlijk door met de EJS module, daarna
+misschien de RESTful API en dan react.
